@@ -1,0 +1,10 @@
+= Test Document
+
+This is just a test to see how gitbub handles adoc files.
+
+== Why Asciidoc?
+
+.I use adoc for:
+* Technical reports
+* Technical instructions
+* Standarized documents
